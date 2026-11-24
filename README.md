@@ -33,12 +33,24 @@
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Enlaces |
-| :-- | :-- | :-- | :-- |
-| 🏦 **BancoGP** | Sistema bancario con gestión de cuentas, clientes y transacciones. | Node.js · JavaScript · MySQL | [Repo](https://github.com/apadilla-2024102/BancoGP) |
-| 💬 **Laboratorio** | API de gestión de opiniones con publicaciones y comentarios. | C# · .NET | [Repo](https://github.com/apadilla-2024102/Laboratorio) |
-| 🍽️ **Restaurante Canela** | Sitio web para restaurante con menú y diseño responsivo. | HTML · CSS · JavaScript | [Repo](https://github.com/apadilla-2024102/RestauranteCanela) · [Demo](https://restaurante-canela.vercel.app) |
-| 🏛️ **Arc Prestige** | Landing page profesional con enfoque en diseño moderno. | HTML · CSS · JavaScript | [Repo](https://github.com/apadilla-2024102/Arc-Prestige) · [Demo](https://arc-prestige-eight.vercel.app) |
+<div align="center">
+
+<a href="https://github.com/apadilla-2024102/BancoGP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apadilla-2024102&repo=BancoGP&bg_color=001233&title_color=F7964A&icon_color=F7964A&text_color=FFFFFF&border_color=F7964A" alt="BancoGP" /></a>
+<a href="https://github.com/apadilla-2024102/Laboratorio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apadilla-2024102&repo=Laboratorio&bg_color=001233&title_color=F7964A&icon_color=F7964A&text_color=FFFFFF&border_color=F7964A" alt="Laboratorio" /></a>
+<a href="https://github.com/apadilla-2024102/RestauranteCanela"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apadilla-2024102&repo=RestauranteCanela&bg_color=001233&title_color=F7964A&icon_color=F7964A&text_color=FFFFFF&border_color=F7964A" alt="RestauranteCanela" /></a>
+<a href="https://github.com/apadilla-2024102/Arc-Prestige"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apadilla-2024102&repo=Arc-Prestige&bg_color=001233&title_color=F7964A&icon_color=F7964A&text_color=FFFFFF&border_color=F7964A" alt="Arc-Prestige" /></a>
+
+<sub>🌐 Demos en vivo: <a href="https://restaurante-canela.vercel.app">Restaurante Canela</a> · <a href="https://arc-prestige-eight.vercel.app">Arc Prestige</a></sub>
+
+</div>
+
+## 🐍 Mi actividad
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/apadilla-2024102/apadilla-2024102/output/github-snake-dark.svg" width="100%" alt="Animación snake de contribuciones" />
+
+</div>
 
 ## 📫 Contacto
 
