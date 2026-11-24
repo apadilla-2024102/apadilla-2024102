@@ -39,19 +39,6 @@
 | 🍽️ **Restaurante Canela** | Sitio web para restaurante con menú y diseño responsivo. | HTML · CSS · JavaScript | [Repo](https://github.com/apadilla-2024102/RestauranteCanela) · [Demo](https://restaurante-canela.vercel.app) |
 | 🏛️ **Arc Prestige** | Landing page profesional con enfoque en diseño moderno. | HTML · CSS · JavaScript | [Repo](https://github.com/apadilla-2024102/Arc-Prestige) · [Demo](https://arc-prestige-eight.vercel.app) |
 
-## 📊 Estadísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&hide_border=true&bg_color=001233&title_color=F7964A&icon_color=F7964A&text_color=FFFFFF&locale=es" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&hide_border=true&bg_color=001233&title_color=F7964A&text_color=FFFFFF&locale=es" alt="Lenguajes más usados" />
-
-<img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&hide_border=true&background=001233&ring=F7964A&fire=F7964A&currStreakLabel=F7964A&stroke=F7964A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&locale=es" alt="GitHub Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&bg_color=001233&color=FFFFFF&line=F7964A&point=FFFFFF&area=true&area_color=F7964A&title_color=F7964A&hide_border=true&custom_title=Contribuciones" alt="Gráfico de contribuciones" />
-
-</div>
-
 ## 📫 Contacto
 
 <div align="center">
