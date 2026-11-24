@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,100:F7964A&height=200&section=header&text=Gahel%20Padilla&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gahel Padilla · Full Stack Developer" />
 
 <a href="https://portafolio-ten-zeta-35.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7964A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Estudiante+en+Kinal;Docker+%C2%B7+Spring+Boot+%C2%B7+.NET+%C2%B7+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7964A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Estudiante+en+Kinal;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL;Spring+Boot+%C2%B7+.NET+%C2%B7+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,17 +18,18 @@
 
 - 🇬🇹 Programador Junior y **Desarrollador Full Stack** desde Guatemala.
 - 🎓 Técnico en el **Centro Educativo Técnico Laboral Kinal** (2024 – 2026, en curso).
-- 🛠️ Construyo APIs con **Spring Boot, .NET y Node.js**, bases de datos **MySQL** y entornos con **Docker**.
+- ⚛️ Creo interfaces con **React + Vite** y APIs REST con **Node.js, Express y Prisma** sobre **PostgreSQL**.
+- 🛠️ También trabajo con **Spring Boot, .NET, MySQL y Docker**.
 - 🚀 Responsable y detallista: convierto cada reto en una oportunidad para aprender y crecer.
 
 ## 🧰 Tecnologías
 
 | Categoría | Stack |
 | :-- | :-- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs&theme=dark" alt="Backend" /> <br/> <sub>+ Java EE · JavaFX (escritorio)</sub> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> <br/> <sub>Triggers · funciones · procedimientos almacenados</sub> |
-| **DevOps y herramientas** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps" /> <br/> <sub>Docker Compose · branches · merges · resolución de conflictos</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend" /> <br/> <sub>+ Axios</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet&theme=dark" alt="Backend" /> <br/> <sub>+ Passport.js · JWT · Java EE · JavaFX</sub> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql&theme=dark" alt="Bases de datos" /> <br/> <sub>Prisma ORM · triggers · funciones · procedimientos almacenados</sub> |
+| **DevOps y herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="DevOps" /> <br/> <sub>Docker Compose · branches · merges · resolución de conflictos</sub> |
 
 ## 📂 Proyectos destacados
 
@@ -60,10 +61,11 @@
 
 - 🇬🇹 Junior Programmer and **Full Stack Developer** based in Guatemala.
 - 🎓 Technical student at **Centro Educativo Técnico Laboral Kinal** (2024 – 2026, in progress).
-- 🛠️ I build APIs with **Spring Boot, .NET and Node.js**, **MySQL** databases and **Docker** environments.
+- ⚛️ I build interfaces with **React + Vite** and REST APIs with **Node.js, Express and Prisma** on **PostgreSQL**.
+- 🛠️ I also work with **Spring Boot, .NET, MySQL and Docker**.
 - 🚀 Responsible and detail-oriented: I turn every challenge into a chance to learn and grow.
 
-**Tech stack:** HTML, CSS, JavaScript · Java (Spring Boot, Java EE, JavaFX), C# (.NET), Node.js · MySQL (triggers, functions, stored procedures) · Docker, Docker Compose, Git, GitHub, VS Code.
+**Tech stack:** HTML, CSS, JavaScript, React, Vite, Axios · Node.js, Express, Passport.js, JWT · Java (Spring Boot, Java EE, JavaFX), C# (.NET) · PostgreSQL, Prisma ORM, MySQL · Git, GitHub, Docker, Docker Compose, VS Code.
 
 **Featured projects**
 
